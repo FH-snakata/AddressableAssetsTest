@@ -32,7 +32,24 @@ MonoBehaviour:
     m_readOnly: 1
   - m_name: Default Local Group
     m_data:
-      m_serializedData: []
+      m_serializedData:
+      - m_assemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+        m_className: System.String
+        m_data: 4f37b64caf93ee94f9d2953e05b4640c
+        m_key: BuildPath
+      - m_assemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+        m_className: System.String
+        m_data: 9e93d56a56173884bb2f568780efd17f
+        m_key: LoadPath
+      - m_assemblyName: Unity.Addressables.Editor, Version=0.0.0.0, Culture=neutral,
+          PublicKeyToken=null
+        m_className: UnityEditor.AddressableAssets.BundledAssetGroupProcessor+BundleMode
+        m_data: PackTogether
+        m_key: BundleMode
+      - m_assemblyName: mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+        m_className: System.Int32
+        m_data: 0
+        m_key: Priority
     m_guid: a4f1cf5da5ab7ae479dcc481523d3e75
     m_processorAssembly: Unity.Addressables.Editor, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
