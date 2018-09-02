@@ -37,7 +37,71 @@ MonoBehaviour:
     m_processorAssembly: Unity.Addressables.Editor, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
     m_processorClass: UnityEditor.AddressableAssets.BundledAssetGroupProcessor
-    m_serializeEntries: []
+    m_serializeEntries:
+    - m_guid: 12e07e6e17c245441af05a36c2341ef7
+      m_address: Assets/Textures/icon_medical/icon_medical_man16.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: 132ec3079fbb6e148b2e49a18b0b5334
+      m_address: Assets/Textures/icon_medical/icon_medical_man04.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: 1808bfbf4f41e0d499e331322dca36c7
+      m_address: Assets/Textures/icon_medical/icon_medical_man03.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: 1c86af4b4f28e7340a6a3f509cc27cde
+      m_address: Assets/Textures/icon_medical/icon_medical_man15.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: 4d447723508f34d448a3ceb9d58f2503
+      m_address: Assets/Textures/icon_medical/icon_medical_man07.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: 5b3e37d2d7de1844ea75f58b8b7ca33d
+      m_address: Assets/Textures/icon_medical/icon_medical_man10.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: af512a07470d64046990165bd2a672dd
+      m_address: Assets/Textures/icon_medical/icon_medical_man05.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: b4b979ca0c591534ab529ca456097595
+      m_address: Assets/Textures/icon_medical/icon_medical_man13.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: ba4279cfc9b82f041a44f184e5da6a45
+      m_address: Assets/Textures/icon_medical/icon_medical_man11.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: bc17e5b5698a10a4095fef77e6be32b5
+      m_address: Assets/Textures/icon_medical/icon_medical_man08.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: c9b266f278f7ed74ab74bccb44923e5b
+      m_address: Assets/Textures/icon_medical/icon_medical_man02.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: d21fa8c8cb5d7fd49b386058d236af90
+      m_address: Assets/Textures/icon_medical/icon_medical_man06.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: e1633d33476f9fb4fa09e62a6b92ea3a
+      m_address: Assets/Textures/icon_medical/icon_medical_man12.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: e3d708db3edb96d46a4d75308fd2053e
+      m_address: Assets/Textures/icon_medical/icon_medical_man01.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: ea6b2b390f139a64fa281f7debb18edd
+      m_address: Assets/Textures/icon_medical/icon_medical_man14.png
+      m_readOnly: 0
+      m_serializedLabels: []
+    - m_guid: f3777d1e16be1af4796feb9167e0af5e
+      m_address: Assets/Textures/icon_medical/icon_medical_man09.png
+      m_readOnly: 0
+      m_serializedLabels: []
     m_readOnly: 0
   m_buildSettings:
     m_compression:
@@ -89,4 +153,4 @@ MonoBehaviour:
   m_labelTable:
     m_labelNames:
     - default
-  m_activeProfileId: bdfa3dcfbc949754fb4231cd90acc0de
+  m_activeProfileId: 062f08974547cdb4ebaf3bef547f3a1e
