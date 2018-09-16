@@ -13,4 +13,9 @@ public class LoadSprite2 : MonoBehaviour
     {
         Addressables.LoadAsset<Sprite>(AssetReference).Completed += op => _image.sprite = op.Result;
     }
+
+    private void OnDestroy()
+    {
+        Addressables.ReleaseAsset(_image.sprite);
+    }
 }
